@@ -1,4 +1,4 @@
-export const API_KEY = "AIzaSyCEwKEIvaSpzw7bjwn9JycLjMkG3ldH_yk";
+export const API_KEY = "API_KEY";
 ////https://developers.google.com/custom-search/v1/using_rest
 export default API_KEY;
 
